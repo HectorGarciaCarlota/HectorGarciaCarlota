@@ -22,8 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorgarciacarlota&show_icons=true&locale=en" alt="hectorgarciacarlota" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hectorgarciacarlota&" alt="hectorgarciacarlota" /></p>
-
 <img src="https://github.com/HectorGarciaCarlota/gif/blob/main/ec6gvs0bfe8b1%20(1).gif" width="100" height="100" />
 
 
