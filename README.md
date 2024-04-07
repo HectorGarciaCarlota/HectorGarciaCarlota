@@ -9,14 +9,18 @@
 
 - 🌱 I’m currently learning **C++, Assembly, reverse engineering via IDA Pro, Cheat engine**
 
-<div style="text-align: right;">
-  <img src="https://github.com/HectorGarciaCarlota/gif/blob/main/ec6gvs0bfe8b1%20(1).gif" width="100" height="100" style="float: right;" />
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="https://github.com/HectorGarciaCarlota/gif/blob/main/ec6gvs0bfe8b1%20(1).gif" width="150" height="150" style="margin-right: 20px;" />
+  </div>
+  <div>
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+      <a href="https://www.linkedin.com/in/hector-garcia-71a76625a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hector-garcia-71a76625a/" height="30" width="40" /></a>
+      <a href="https://instagram.com/turbosadspecimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turbosadspecimen" height="30" width="40" /></a>
+    </p>
+  </div>
 </div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hector-garcia-71a76625a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hector-garcia-71a76625a/" height="30" width="40" /></a>
-  <a href="https://instagram.com/turbosadspecimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turbosadspecimen" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
