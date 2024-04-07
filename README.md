@@ -44,6 +44,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.redd.it/ec6gvs0bfe8b1.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/hector-garcia-71a76625a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -59,17 +63,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&theme=dark&username=HectorGarciaCarlota" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <img align="left" src="https://profile-counter.glitch.me/HectorGarciaCarlota/count.svg?"  />
-
-###
-
-<img align="right" height="150" src="https://i.redd.it/ec6gvs0bfe8b1.gif"  />
 
 ###
 
