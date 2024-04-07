@@ -25,5 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectorgarciacarlota&" alt="hectorgarciacarlota" /></p>
 
 
-![](https://github.com/HectorGarciaCarlota/gif/blob/main/ec6gvs0bfe8b1%20(1).gif)
+<img src="https://github.com/HectorGarciaCarlota/gif/blob/main/ec6gvs0bfe8b1%20(1).gif" width="100" height="100" />
 
