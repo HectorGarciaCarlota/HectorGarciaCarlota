@@ -65,8 +65,3 @@
 
 ![](https://github.com/HectorGarciaCarlota/gif/blob/main/ec6gvs0bfe8b1%20(1).gif)
 
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/897839e5862f53d38653ba0613a0eb06/5b1342ce53c22628-40/s540x810/bd86a232744b63157524a9588019e7deacc5f32c.gif"  />
-
-###
